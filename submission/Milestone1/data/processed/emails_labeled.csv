@@ -1,0 +1,6 @@
+id,subject,body,category,urgency
+1,Order not received,"Hello, I placed an order two weeks ago and it's not delivered. I want a refund. Regards, Rahul",complaint,low
+2,Unable to login,I cannot login to my account since yesterday. Please help ASAP. Thanks,complaint,high
+3,Feature request - Dark Mode,"Hi, can you add dark mode to the app? It will be helpful for night use. Best regards",request,low
+4,Great product,I love the new update — very smooth and user friendly. Keep it up!,feedback,low
+5,Suspicious offer,Win $1000 now! Click http://spam.example.com to claim.,spam,low
