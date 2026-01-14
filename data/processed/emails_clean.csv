@@ -1,0 +1,6 @@
+id,subject,body,clean_text
+1,Order not received,"Hello, I placed an order two weeks ago and it's not delivered. I want a refund. Regards, Rahul","Hello, I placed an order two weeks ago and it's not delivered. I want a refund. Regards, Rahul"
+2,Unable to login,I cannot login to my account since yesterday. Please help ASAP. Thanks,I cannot login to my account since yesterday. Please help ASAP. Thanks
+3,Feature request - Dark Mode,"Hi, can you add dark mode to the app? It will be helpful for night use. Best regards","Hi, can you add dark mode to the app? It will be helpful for night use. Best regards"
+4,Great product,I love the new update — very smooth and user friendly. Keep it up!,I love the new update — very smooth and user friendly. Keep it up!
+5,Suspicious offer,Win $1000 now! Click http://spam.example.com to claim.,Win $1000 now! Click to claim.
